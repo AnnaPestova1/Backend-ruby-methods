@@ -26,7 +26,7 @@ def hash_to_array
     array_of_values = user_hash.values
 
     puts "array of keys: #{array_of_keys}"
-    puts "array of keys: #{array_of_values}"
+    puts "array of values: #{array_of_values}"
 
 end
 
